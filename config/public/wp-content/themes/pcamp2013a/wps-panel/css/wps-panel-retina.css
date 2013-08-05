@@ -1,0 +1,9 @@
+@media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+
+#wps-panel-actions .button-primary { background-image: url('../images/save@2x.png'); }
+#wps-panel-content input[type=radio][checked].radio { background-image: url('../../images/checked@2x.png'); }
+.wps-panel-field.open-sub .arrow-expend { background-image: url('../images/arrow@2x.png'); }
+.wps-panel-field.open-sub .arrow-expend.down { background-image: url('../images/arrow-down@2x.png'); }
+.wps-panel-field.open-sub .delete { background-image: url('../images/delete@2x.png'); }
+#wps-panel-content select { background-image: url('../images/dropdown@2x.png'); }
+}
